@@ -1,0 +1,15 @@
+# Dependencies
+node_modules/
+
+# Expo / Native builds
+.expo/
+dist/
+web-build/
+
+# Environment / Secret variables
+.env
+.env.local
+
+# Logs & temp files
+*.log
+npm-debug.log*
